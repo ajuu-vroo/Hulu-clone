@@ -5,7 +5,7 @@ export default function Home({results}) {
   return (
     <div style={{backgroundColor: '#06202A'}}>
       <Head>
-        <title>Create Next App</title>
+        <title>HuluLite - Stream your favourite shows.</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
